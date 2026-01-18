@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "FFF,WWW,_W_",
+		ingredients: {
+			"F": { type: "item", code: "feather", quantity: 2 },
+			"W": { type: "item", code: "plank-*", quantity: 1 },
+		},
+		width: 3,
+		height: 3,
+		output: { type: "item", code: "textureflipper", quantity: 1  }
+	}
+]

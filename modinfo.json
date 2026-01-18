@@ -1,0 +1,8 @@
+{
+  "type": "content",
+  "modId": "craftabletextureflipper",
+  "name": "Craftable Texture Flipper",
+  "authors": ["jupifox3"],
+  "description": "Adding a crafting recipe for creating TextureFlipper in survival mode.",
+  "version": "1.0.0",
+}
